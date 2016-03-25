@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Drew Fleisher
-    url: 'http://www.fatboyheaven.com/blog/?author=5016f902c4aa496b52e0a093'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.fatboyheaven.com'
-  name: Fat Boy Heaven
-  favicon: 'http://www.fatboyheaven.com/favicon.ico'
-  domain: www.fatboyheaven.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.fatboyheaven.com/blog/2015/12/23/its-beginning-to-feel-a-lot-likewednesday'
+inLanguage: en
+starred: false
 keywords:
   - christmas
   - family
@@ -21,17 +17,23 @@ keywords:
   - volunteers
   - strudel
 description: 'This time of year is different for everyone I guess. How we feel about the the "Holiday Season" is shaped pretty strongly by our past experiences, our childhood memories, and in some cases unfortunately family drama. My Christmas memories are pretty full of all three to be honest, but it has always been a time of year when I was excited.'
-inLanguage: en
+datePublished: '2016-03-25T08:04:16.701Z'
+dateModified: '2016-03-05T20:14:15.597Z'
+author:
+  - name: Drew Fleisher
+    url: 'http://www.fatboyheaven.com/blog/?author=5016f902c4aa496b52e0a093'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.fatboyheaven.com/blog/2015/12/23/its-beginning-to-feel-a-lot-likewednesday'
 title: "It's beginning to feel a lot like....Wednesday"
-datePublished: '2016-03-05T20:09:57.542Z'
-dateModified: '2016-03-05T20:07:20.484Z'
 sourcePath: _posts/2016-03-05-its-beginning-to-feel-a-lot-likewednesday.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Fat Boy Heaven
+  domain: www.fatboyheaven.com
+  url: 'http://www.fatboyheaven.com'
+  favicon: 'http://www.fatboyheaven.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
